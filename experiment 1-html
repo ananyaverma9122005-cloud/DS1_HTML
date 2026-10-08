@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experiment 1</title>
+</head>
+<body>
+    <h1>Introduction</h1>
+    <p>Welcome to the <b>Course Curriculum</b>. This page demonstrates the use of <i>HTML formatting</i>, <U>Lists</U>, and special characters such as &copy;,&lt;,&gt;.</p>
+    <h2>Semester 1 Subjects</h2>
+    <p>
+        <ol>
+            <li>
+                Mathematics I
+            </li>
+            <li>
+                Computer Fundamentals
+            </li>
+            <li>
+                Programming in C
+            </li>
+            <li>
+                Electronics Basics
+            </li>
+
+        </ol>
+
+    </p>
+    <h2>
+        Programming Languages
+    </h2>
+    <p>
+        <ul>
+            <li>
+                C
+            </li>
+            <li>
+                Java
+            </li>
+            <li>
+                Python
+            </li>
+            <li>
+                JavaScript
+            </li>
+
+        </ul>
+    </p>
+    <h2>
+        Course Description
+    </h2>
+    <p>
+        <b>C Programming</b>
+        <p>Learn basics of C language including loops, arrays, an functions.</p>
+<b>Java</b>
+<p>Introduction to Object-Oriented Programming concepts.</p>
+    </p>
+    <h2>Course Modules</h2>
+    <p>
+        <ol><li>
+            Module 1:Basics
+            <ul>
+                <li>Introduction</li>
+<li>History of Computers</li>
+            </ul>
+        </li>
+    <li>Module 2:Programming
+        <ul>
+            <li>
+                Variables & Data Types
+            </li>
+            <li>
+                Control Statements
+            </li>
+        </ul>
+    </li></ol>
+    </p>
+    <h2>
+        Project Work
+    </h2>
+    <p>
+        <ul>
+            <li>Web Development
+                <ol>
+                    <li>
+                        HTML
+                    </li>
+                    <LI>
+                        CSS
+                    </LI>
+                    <LI>
+                        JavaScript
+                    </LI>
+                </ol>
+            </li>
+            <li>
+                Database
+                <ol type="A">
+                    <li>
+                        MySQL
+                    </li>
+                    <LI>
+                        MangoDB
+                    </LI>
+                </ol>
+            </li>
+        
